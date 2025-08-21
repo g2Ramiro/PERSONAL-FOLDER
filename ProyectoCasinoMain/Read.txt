@@ -1,2 +1,0 @@
-My part on the development of the project was building all the jackpot game, that includes the frontend using html and css and javascript to manage the bets per user
-Also I helped to develop the nav bar
